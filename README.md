@@ -8,7 +8,7 @@ Repositório com exercícios desenvolvidos para praticar estruturas de repetiç�
 Programa que calcula o fatorial de um número inteiro natural.
 
 ### 2. Quadrados Perfeitos
-Programa que exibe quadrados perfeitos menores que 20.
+Programa que exibe os quadrados perfeitos menores que 20.
 
 ### 3. Desenho de Quadrado
 Programa que desenha um quadrado utilizando caracteres `*`.
